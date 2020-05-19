@@ -57,3 +57,8 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'rspec-rails'
 end
+
+gem 'capistrano'
+gem 'capistrano-rails'
+gem 'capistrano-bundler'
+gem 'capistrano-rvm'
